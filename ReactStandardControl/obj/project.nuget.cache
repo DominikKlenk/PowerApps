@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "86VG4JJquTQ4uyiTaMtiy4AO1WKs6HScp7hYCkCIpA4UihevEWgh3TVc7U3FHSodRV2sDSOBNpLM3n3beMLayg==",
+  "success": true,
+  "projectFilePath": "C:\\PowerApps-Samples-master\\component-framework\\ReactStandardControl\\ReactStandardControl.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dominik\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.19.4\\microsoft.powerapps.msbuild.pcf.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
